@@ -10,5 +10,5 @@ A decentralised To Do List App using blockchain
 # Collaborators
 - @ParthChaudhary28
 - @bhaveshGhanchi
-- @SaikrishnaK
+- @Simplifier779
 - @ruta1402
