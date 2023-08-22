@@ -8,7 +8,7 @@ A decentralised To Do List App using blockchain
 - View the list and status of all the tasks
 
 # Collaborators
-Parth Chaudhary @ParthChaudhary28
-Bhavesh Ghanchi @bhaveshGhanchi
-Saikrishna Karra @
-Ruta Kulkarni @ruta1402
+- Parth Chaudhary @ParthChaudhary28
+- Bhavesh Ghanchi @bhaveshGhanchi
+- Saikrishna Karra @
+- Ruta Kulkarni @ruta1402
